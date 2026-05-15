@@ -45,4 +45,3 @@ The system successfully reads time and date from the DS3231, displays them on th
 
 ## Repository Contents
 - `RTC_Module_Clock.ino` — Arduino source code
-- Project images — hardware and LCD demonstration photos
